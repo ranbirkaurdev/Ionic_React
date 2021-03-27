@@ -1,0 +1,8 @@
+{
+  "name": "rest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "4382a9c3"
+}
